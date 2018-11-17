@@ -3,3 +3,4 @@ alpine Docker image, with apk using Chinese mirror, integrated with utilities wh
 
 ## installed packages
 - `git`
+- `make`
